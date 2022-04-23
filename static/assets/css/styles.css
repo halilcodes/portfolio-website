@@ -1,0 +1,29 @@
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #FBF8F1;
+    font-family: 'Dosis', sans-serif;
+}
+
+.second-container{
+    /*margin: 100px 0;*/
+    padding: 20px;
+    background-color: #F0E5CF;
+  }
+  
+.third-container{
+    padding: 20px;
+    background-color: #F7F6F2;
+}
+
+.fourth-container{
+    padding: 15px;
+    background-color: #C8C6C6;
+}
+
+.bottom-container{
+    background-color: #4B6587;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
